@@ -1,0 +1,47 @@
+
+ h1 { font-weight: 100; font-size: 2.5em;
+    text-align: center;
+  }
+  
+  body {
+    background-image: url("../image/photo-1587280501635-a19de238a81e.jpg");
+  }
+  #section { 
+    width: 600px; 
+    height: 600px;
+    margin: 0 auto; 
+    margin-top: 50px; 
+    border: 1px dotted black;
+    text-align: center; 
+    font-family: 'Helvetica Neue', arial; 
+    font-weight: 100;
+    background-color:lightslategray;
+    text-align: center;
+   
+  
+   } 
+  
+  #magicEightBall{
+   background-position: center;
+  
+  }
+  
+  
+  #magic8ball{
+    font-size: 14pt;
+    background-color: white;
+    color: black;
+    position:absolute;
+    margin-left: 75px;
+    margin-top: 76px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    display: none;
+  }
+  
+  #info{
+    text-align: center;
+    font-size: 25px ;
+  }
+  
